@@ -1,12 +1,19 @@
 # Machine à pince – Projet P2I 3
 
-Conception complète, sous **Solid Edge**, d'une machine à pince de fête foraine (« claw machine ») : structure, axes motorisés X / Y / Z, pince à électro-aimant, capteurs de fin de course, électronique de commande et interface joueur.
+Projet de groupe réalisé à l'**INSA Lyon** (P2I 3 – Projet C) : conception, fabrication et industrialisation d'une machine à pince de fête foraine (« claw machine ») à 3 axes X / Y / Z, avec pince à électro-aimant, capteurs de fin de course, électronique Arduino et interface joueur.
+
+**Équipe :** Perraud · Poirier · Vignon · Nicolas
 
 ![Vue d'ensemble de la machine](images/vue_ensemble.png)
 
 ## Une conception de A à Z
 
-Ce projet couvre **toute la chaîne de conception** d'une machine réelle, de l'idée jusqu'à la machine construite et fonctionnelle : cahier des charges, conception mécanique en CAO, programmation, fabrication des pièces, assemblage et tests.
+Ce projet couvre **toute la chaîne de développement d'un produit**, de l'idée jusqu'à la machine construite et fonctionnelle, puis jusqu'à son industrialisation :
+
+1. **Conception mécanique** en CAO sous Solid Edge (bâti, axes, pince, capteurs, intégration de l'électronique).
+2. **Programmation** de la machine en Arduino.
+3. **Fabrication** des pièces sur les machines de l'atelier (FAO, usinage, découpe laser, pliage, impression 3D) puis **assemblage** et tests.
+4. **Analyse industrielle complète** : étude de la production en série de la machine dans une usine, jusqu'au calcul de son prix de vente (voir [plus bas](#analyse-industrielle)).
 
 ### Mon rôle
 
@@ -69,6 +76,33 @@ Le programme tourne sur l'**Arduino Mega 2560** et gère :
 - la prise d'origine des axes grâce aux micro-switchs de fin de course ;
 - la fermeture / l'ouverture de la pince par l'électro-aimant (via le module relais) ;
 - le déroulement d'une partie et l'affichage sur l'écran LCD.
+
+## Analyse industrielle
+
+En parallèle de la conception, l'équipe a mené une **étude complète d'industrialisation** : comment produire cette machine en série dans une usine ayant la surface et le parc machines de l'atelier FIMI de l'INSA Lyon.
+
+**Hypothèses de départ**
+
+- Production de **2 500 machines par an**, soit environ **11 machines par jour** sur 229 jours travaillés.
+- Travail en **1×8**, sans sous-traitance des pièces (la platine électronique est achetée toute faite).
+- Machine vendue **en pièces détachées**, avec une notice d'assemblage.
+
+**Démarche**
+
+| Étape | Contenu |
+|---|---|
+| **Statut de l'entreprise** | Choix d'une **SAS** (responsabilité limitée, statuts flexibles, entrée d'investisseurs facilitée) |
+| **Nomenclature** | Produit découpé en modules codifiés (axe X, bâti, pince, galets, support pince, canne, capteurs), avec pour chaque pièce la machine utilisée et le temps de fabrication **chronométré** |
+| **Dimensionnement de l'atelier** | Calcul du nombre de machines nécessaires (`temps × 11 / 8 h`) : achat et revente de machines-outils (tour CN, fraiseuse, découpeuses laser, plieuses, imprimantes 3D…) — opération autofinancée |
+| **Implantation** | Réorganisation de l'atelier en **job-shop** (îlots tôlerie, tournage/fraisage, profilés, impression 3D) avec l'îlot de montage au centre |
+| **Personnel** | **24 salariés**, salaires fixés selon la grille de la Convention collective de la métallurgie, charges patronales incluses |
+| **Coûts de production** | Matières premières : **357,83 € par machine** (≈ 894 600 €/an) ; énergie, eau, amortissement sur 10 ans et maintenance : ≈ 43 500 €/an |
+| **Services et normes** | RH externalisée, salle de repos, tickets restaurant, ménage (avec étude de rentabilité d'une autolaveuse), vestiaires, durée du travail, hygiène et sécurité |
+| **Assurances et certifications** | RC pro, vérifications électriques **Q18 / Q19** (thermographie), sécurité incendie **Q4** — devis obtenus auprès d'entreprises |
+| **Notice d'assemblage** | Notice visuelle type « Lego », 100 % numérique via QR code (choix économique et écologique) |
+| **Fiscalité** | Impôt sur les sociétés, CFE, TVA |
+
+**Résultat :** un prix d'équilibre de **888 €**, porté à **932,40 €** avec une marge de 5 % pour sécuriser et financer le développement de l'entreprise.
 
 ## Technologies et composants
 
