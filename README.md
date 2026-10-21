@@ -15,21 +15,54 @@ Ce projet couvre **toute la chaîne de développement d'un produit**, de l'idée
 3. **Fabrication** des pièces sur les machines de l'atelier (FAO, usinage, découpe laser, pliage, impression 3D) puis **assemblage** et tests.
 4. **Analyse industrielle complète** (étude fictive) : simulation de la production en série de la machine dans une usine, jusqu'au calcul de son prix de vente (voir [plus bas](#analyse-industrielle)).
 
-### Mon rôle
-
-- **Code Arduino** : programmation de la machine (pilotage des 3 moteurs pas-à-pas X / Y / Z, prise d'origine via les capteurs de fin de course, lecture du joystick et du bouton, commande de l'électro-aimant de la pince, affichage sur l'écran LCD).
-- **Conception 3D de la pince** : modélisation complète sous Solid Edge du mécanisme de préhension (griffes, bielles, électro-aimant, pièces de tôlerie, axes).
-- **Programmation de la fabrication (FAO)** : conversion des modèles Solid Edge en programmes d'usinage avec **Solid Edge CAM Pro**, pour le **fraisage** et le **tournage** des axes de la pince sur machines-outils.
-
 ## La pince construite
 
 La machine a été fabriquée et assemblée à l'atelier, puis testée en conditions de jeu.
 
-[![Vidéo de la machine à pince en fonctionnement](images/apercu_video.jpg)](images/video_pince.mp4)
+![La machine à pince en fonctionnement](images/video_pince.gif)
 
-🎥 *Clique sur l'image pour voir la vidéo de la machine en fonctionnement (48 s).*
+🎥 *Extrait en GIF. [Vidéo complète avec le son (48 s, MP4)](https://github.com/bastianpoirier/machine-a-pince-p2i/raw/main/images/video_pince.mp4)*
 
-## Le projet
+## Ma contribution
+
+Au sein de l'équipe de quatre, je me suis chargé de trois parties du projet : **le code Arduino**, **la conception 3D de la pince** et **la programmation de l'usinage de ses axes**. Ces trois parties vont de la conception jusqu'à la pièce réelle qui fonctionne.
+
+### 1. Code Arduino : faire vivre la machine
+
+J'ai écrit le programme qui pilote toute la machine sur l'**Arduino Mega 2560** :
+
+- **commande des 3 moteurs pas-à-pas NEMA 17** (axes X, Y et Z) au travers des drivers micro-pas ;
+- **prise d'origine** automatique des axes au démarrage grâce aux micro-switchs de fin de course ;
+- **lecture du joystick et du bouton** pour que le joueur déplace la pince puis lance la descente ;
+- **cycle de jeu** : descente de la pince, fermeture par l'**électro-aimant** (via le module relais), remontée, retour au-dessus de la trappe et ouverture ;
+- **affichage** des informations de jeu sur l'**écran LCD I²C**.
+
+> 💻 *Le code source sera ajouté dans le dossier `arduino/`.*
+
+### 2. Conception 3D de la pince sous Solid Edge
+
+J'ai conçu entièrement le **mécanisme de préhension** (dossier [`Pince_finale/FINAL/Pince`](Pince_finale/FINAL/Pince)) :
+
+- **cinématique** à 3 griffes : l'électro-aimant tire un axe central qui, par l'intermédiaire de **bielles**, referme les **griffes** autour du lot ; sans courant, la pince s'ouvre ;
+- dimensionnement de l'ouverture (≈ 49 mm) pour la taille des lots ;
+- pièces structurelles en **tôlerie pliée** (`piece_haute`, `piece_basse`) pour une pince légère et simple à fabriquer ;
+- **axes Ø8 mm**, guidages et entretoises pour les liaisons pivot ;
+- **butée** de détection de la position haute pour le capteur de l'axe Z ;
+- sous-assemblage griffe-bielle et assemblage complet de la pince, intégré au reste de la machine.
+
+![Détail de la pince](images/pince.png)
+
+### 3. Fabrication des axes : de Solid Edge aux machines-outils (FAO)
+
+J'ai préparé l'usinage des **axes de la pince** avec **Solid Edge CAM Pro** :
+
+1. reprise des modèles 3D des axes conçus sous Solid Edge ;
+2. définition des opérations de **tournage** et de **fraisage** (outils, trajectoires, conditions de coupe) ;
+3. simulation des trajectoires pour vérifier l'usinage ;
+4. génération des programmes pour le **tour à commande numérique** et la **fraiseuse** de l'atelier ;
+5. usinage des axes, puis montage sur la pince.
+
+## La machine
 
 L'objectif était de concevoir une machine fonctionnelle et fabricable dans laquelle le joueur pilote une pince au joystick pour attraper un lot dans le plateau de jeu, puis le déposer dans la trappe de sortie.
 
@@ -48,38 +81,6 @@ La machine se décompose en plusieurs sous-ensembles :
 | **Interface joueur** | `FINAL/bati/interface utilisateur finale` | Boîtier à créneaux avec joystick KY-023, bouton Grove et écran LCD 4 lignes I²C |
 
 L'assemblage général est `Pince_finale/assemblage final.asm`.
-
-## La pince
-
-![Détail de la pince](images/pince.png)
-
-La pince est le cœur du projet :
-
-- **Actionnement par électro-aimant** (bloc rouge) : en tirant l'axe central, il entraîne les **bielles** qui referment les **3 griffes** autour du lot ; au relâchement, la pince s'ouvre.
-- Ouverture des griffes d'environ **49 mm**, adaptée à la taille des lots.
-- Pièces en **tôlerie pliée** (pièces vertes : pièce haute, pièce basse) pour rester légères et faciles à fabriquer.
-- Axes Ø8 mm et entretoises pour les liaisons pivot.
-- Une **butée** déclenche le capteur Z pour détecter la position haute.
-
-## Fabrication des axes de la pince (FAO)
-
-Les axes de la pince (axes Ø8 mm, axe reliant l'électro-aimant à la pince, guidages) ont été usinés à partir des modèles 3D :
-
-1. Modélisation de la pièce sous Solid Edge.
-2. Création des opérations d'usinage dans **Solid Edge CAM Pro** (choix des outils, trajectoires, conditions de coupe).
-3. Simulation puis génération du programme pour la machine-outil (**tour** et **fraiseuse**).
-4. Usinage des pièces et montage sur la pince.
-
-## Code Arduino
-
-> 💻 *Le code source Arduino sera ajouté prochainement dans le dossier `arduino/`.*
-
-Le programme tourne sur l'**Arduino Mega 2560** et gère :
-
-- le déplacement de la pince en X / Y au joystick et la descente / remontée en Z ;
-- la prise d'origine des axes grâce aux micro-switchs de fin de course ;
-- la fermeture / l'ouverture de la pince par l'électro-aimant (via le module relais) ;
-- le déroulement d'une partie et l'affichage sur l'écran LCD.
 
 ## Analyse industrielle
 
