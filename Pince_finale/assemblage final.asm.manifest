@@ -1,0 +1,275 @@
+﻿//// This file contains orignal file paths Vs new file paths which would be used to reconcile the files when they are back to source
+//// Réussite du processus Pack and Go.  246 documents ont été copiés dans cette opération.
+//// Pack and Go Time: 2026/10/21 16:41:19
+//// TopLevelAssembly: \\PS-HOME.INSA-LYON.FR\USERS\HOME\BPOIRIER\Desktop\OneDrive_2026-10-21\Projet _C\assemblage final.asm:?H:\Desktop\Pince_finale\assemblage final.asm
+//// Include Drafts:False
+
+\\PS-HOME.INSA-LYON.FR\USERS\HOME\BPOIRIER\Desktop\OneDrive_2026-10-21\Projet _C\assemblage final.asm:?H:\Desktop\Pince_finale\assemblage final.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Axe_x\Axe_x\Axe_x.asm:?H:\Desktop\Pince_finale\FINAL\Axe_x\Axe_x\Axe_x.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Axe_x\Axe_x\ITEM vis.par:?H:\Desktop\Pince_finale\FINAL\Axe_x\Axe_x\ITEM vis.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Axe_x\Axe_x\lien_courroi_x.par:?H:\Desktop\Pince_finale\FINAL\Axe_x\Axe_x\lien_courroi_x.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Axe_x\Axe_x\nema17\axe.par:?H:\Desktop\Pince_finale\FINAL\Axe_x\Axe_x\nema17\axe.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Axe_x\Axe_x\nema17\nema17.asm:?H:\Desktop\Pince_finale\FINAL\Axe_x\Axe_x\nema17\nema17.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Axe_x\Axe_x\nema17\stator.par:?H:\Desktop\Pince_finale\FINAL\Axe_x\Axe_x\nema17\stator.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Axe_x\Axe_x\nervure.psm:?H:\Desktop\Pince_finale\FINAL\Axe_x\Axe_x\nervure.psm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Axe_x\Axe_x\Nut_DIN_934_1987_M5_v16.00.par:?H:\Desktop\Pince_finale\FINAL\Axe_x\Axe_x\Nut_DIN_934_1987_M5_v16.00.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Axe_x\Axe_x\poulie_12-18-13.par:?H:\Desktop\Pince_finale\FINAL\Axe_x\Axe_x\poulie_12-18-13.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Axe_x\Axe_x\poulie_GT2.par:?H:\Desktop\Pince_finale\FINAL\Axe_x\Axe_x\poulie_GT2.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Axe_x\Axe_x\profile_20x40.par:?H:\Desktop\Pince_finale\FINAL\Axe_x\Axe_x\profile_20x40.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Axe_x\Axe_x\rondelle plate M5.par:?H:\Desktop\Pince_finale\FINAL\Axe_x\Axe_x\rondelle plate M5.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Axe_x\Axe_x\Vis CHC M5-40.par:?H:\Desktop\Pince_finale\FINAL\Axe_x\Axe_x\Vis CHC M5-40.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Axe_x\Axe_x\Vis HC_M3x10.par:?H:\Desktop\Pince_finale\FINAL\Axe_x\Axe_x\Vis HC_M3x10.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Axe_x\rail\entretoise_large 2.par:?H:\Desktop\Pince_finale\FINAL\Axe_x\rail\entretoise_large 2.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Axe_x\rail\test_rail_galets.asm:?H:\Desktop\Pince_finale\FINAL\Axe_x\rail\test_rail_galets.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Axe_x\rail\test_rail_galets_courroie.asm:?H:\Desktop\Pince_finale\FINAL\Axe_x\rail\test_rail_galets_courroie.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Axe_x\rail\tole_ext.psm:?H:\Desktop\Pince_finale\FINAL\Axe_x\rail\tole_ext.psm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Axe_x\rail\tole_ext_courroie.psm:?H:\Desktop\Pince_finale\FINAL\Axe_x\rail\tole_ext_courroie.psm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Axe_x\rail\tole_int.psm:?H:\Desktop\Pince_finale\FINAL\Axe_x\rail\tole_int.psm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Axe_x\rail\tole_int_courroie.psm:?H:\Desktop\Pince_finale\FINAL\Axe_x\rail\tole_int_courroie.psm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\bati_haut.asm:?H:\Desktop\Pince_finale\FINAL\bati\bati_haut.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\boite_crenau_jouet.asm:?H:\Desktop\Pince_finale\FINAL\bati\boite_crenau_jouet.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\boite_creneau_104x80.par:?H:\Desktop\Pince_finale\FINAL\bati\boite_creneau_104x80.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\boite_creneau_104x80_2.par.selock.par:?H:\Desktop\Pince_finale\FINAL\bati\boite_creneau_104x80_2.par.selock.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\boite_creneau_104x80_face.par:?H:\Desktop\Pince_finale\FINAL\bati\boite_creneau_104x80_face.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\boite_creneau_110x110.par:?H:\Desktop\Pince_finale\FINAL\bati\boite_creneau_110x110.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\cale_plastique.par:?H:\Desktop\Pince_finale\FINAL\bati\cale_plastique.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\contour pmma.par:?H:\Desktop\Pince_finale\FINAL\bati\contour pmma.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\contour.par:?H:\Desktop\Pince_finale\FINAL\bati\contour.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\contour2.par:?H:\Desktop\Pince_finale\FINAL\bati\contour2.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\contour3par.par:?H:\Desktop\Pince_finale\FINAL\bati\contour3par.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\Ecrou H M5 (2).par:?H:\Desktop\Pince_finale\FINAL\bati\Ecrou H M5 (2).par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\entretoise5.par:?H:\Desktop\Pince_finale\FINAL\bati\entretoise5.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\entretoise_20mm.par:?H:\Desktop\Pince_finale\FINAL\bati\entretoise_20mm.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\guide_tiroir_profile.asm:?H:\Desktop\Pince_finale\FINAL\bati\guide_tiroir_profile.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\10T85 (GSFY-10).par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\10T85 (GSFY-10).par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\adapt_I2C.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\adapt_I2C.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\bloc_cable.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\bloc_cable.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\boite_bout.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\boite_bout.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\boite_bout_AV.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\boite_bout_AV.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\Boite_creneaux.asm:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\Boite_creneaux.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\boite_dessous.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\boite_dessous.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\boite_dessus.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\boite_dessus.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\boite_flan.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\boite_flan.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\boite_flan_G.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\boite_flan_G.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\Connecteur 4 broches coudees.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\Connecteur 4 broches coudees.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\entretoise.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\entretoise.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\fente pièce.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\fente pièce.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\grove button(P) v1.2a.asm:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\grove button(P) v1.2a.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\grove button(P) v1.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\grove button(P) v1.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\Grove Connector th.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\Grove Connector th.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\Grove_micro_switch_v1-0.asm:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\Grove_micro_switch_v1-0.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\guidage cylindrique 3mm.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\guidage cylindrique 3mm.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\guidage cylindrique.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\guidage cylindrique.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\guidage.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\guidage.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\interface_jeu.asm:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\interface_jeu.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\interface_jeu.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\interface_jeu.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\joystick_KY-023.asm:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\joystick_KY-023.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\LCD_4lignes.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\LCD_4lignes.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\LCD_4lignes_I2C.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\LCD_4lignes_I2C.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\LCD_I2C_4lignes.asm:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\LCD_I2C_4lignes.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\PCB.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\PCB.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\Support20x20.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\Support20x20.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\Support20x40.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\Support20x40.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale\won95FB43B18o1cr.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale\won95FB43B18o1cr.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur\modeleSE_boiteOK\boite_bout.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur\modeleSE_boiteOK\boite_bout.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur\modeleSE_boiteOK\boite_bout_AV.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur\modeleSE_boiteOK\boite_bout_AV.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur\modeleSE_boiteOK\boite_dessous.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur\modeleSE_boiteOK\boite_dessous.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur\modeleSE_boiteOK\boite_flan.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur\modeleSE_boiteOK\boite_flan.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur\modeleSE_boiteOK\boite_flan_G.par:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur\modeleSE_boiteOK\boite_flan_G.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur\modeleSE_boiteOK\tiroir.asm:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur\modeleSE_boiteOK\tiroir.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\ITEM Agrafe.par:?H:\Desktop\Pince_finale\FINAL\bati\ITEM Agrafe.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\ITEM vis.par:?H:\Desktop\Pince_finale\FINAL\bati\ITEM vis.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\mdf_support_bas.par:?H:\Desktop\Pince_finale\FINAL\bati\mdf_support_bas.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\nema17\axe.par:?H:\Desktop\Pince_finale\FINAL\bati\nema17\axe.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\nema17\nema17.asm:?H:\Desktop\Pince_finale\FINAL\bati\nema17\nema17.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\nema17\stator.par:?H:\Desktop\Pince_finale\FINAL\bati\nema17\stator.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\pied.par:?H:\Desktop\Pince_finale\FINAL\bati\pied.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\plateau_jeu_MDF _p2.par:?H:\Desktop\Pince_finale\FINAL\bati\plateau_jeu_MDF _p2.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\plateau_jeu_MDF_p1.par:?H:\Desktop\Pince_finale\FINAL\bati\plateau_jeu_MDF_p1.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\001^CDRH125_HW-411.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\001^CDRH125_HW-411.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\002^CDRH125_HW-411.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\002^CDRH125_HW-411.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\003^CDRH125_HW-411.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\003^CDRH125_HW-411.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\005^CDRH125_HW-411.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\005^CDRH125_HW-411.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\10 Pos Socket Header_001.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\10 Pos Socket Header_001.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\2x18 Pos Socket Header_001.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\2x18 Pos Socket Header_001.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\8 Pos Socket Header_001.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\8 Pos Socket Header_001.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\8 Pos Socket Header_002.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\8 Pos Socket Header_002.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\8 Pos Socket Header_003.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\8 Pos Socket Header_003.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\8 Pos Socket Header_004.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\8 Pos Socket Header_004.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\8 Pos Socket Header_005.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\8 Pos Socket Header_005.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\ALIM_MW RS-15-5.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\ALIM_MW RS-15-5.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\ArduinoMega2560R3.asm:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\ArduinoMega2560R3.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Array001.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Array001.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Array002.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Array002.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\bloc_cable.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\bloc_cable.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Board^HW-411.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Board^HW-411.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\CAP_SMD_0603_H0.50^HW-411.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\CAP_SMD_0603_H0.50^HW-411.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\CAP_SMD_AL_08.0x10.0^HW-411.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\CAP_SMD_AL_08.0x10.0^HW-411.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\carte_electronique.asm:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\carte_electronique.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\carte_electronique.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\carte_electronique.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\CDRH125^HW-411.asm:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\CDRH125^HW-411.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\COMPOUND.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\COMPOUND.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\COMPOUND001.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\COMPOUND001.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\COMPOUND002.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\COMPOUND002.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\COMPOUND003.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\COMPOUND003.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\DG-031.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\DG-031.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\DG-30.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\DG-30.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\dg-301 v003.asm:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\dg-301 v003.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\dg-301 v2.asm:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\dg-301 v2.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Diode_DO214AC(SMA)^HW-411.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Diode_DO214AC(SMA)^HW-411.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Dip Switch 6 position.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Dip Switch 6 position.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\DIP4 Gullwing001.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\DIP4 Gullwing001.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\DriverPCB.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\DriverPCB.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\equerre_alim.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\equerre_alim.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Grove mega shield.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Grove mega shield.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Grove-mega-shield.asm:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Grove-mega-shield.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\LED_0603_Green^HW-411.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\LED_0603_Green^HW-411.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\LM2596S_down_converter.asm:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\LM2596S_down_converter.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\MicrostepDriver.asm:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\MicrostepDriver.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Mini MELF.asm:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Mini MELF.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Part10.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Part10.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Part12.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Part12.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Part14.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Part14.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Part16.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Part16.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Part18.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Part18.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Part20.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Part20.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Part22.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Part22.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Part24.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Part24.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Part26.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Part26.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Part28.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Part28.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Part30.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Part30.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Part32.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Part32.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Part34.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Part34.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Part36.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Part36.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Part38.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Part38.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Part4.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Part4.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Part40.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Part40.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Part42.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Part42.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Part44.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Part44.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Part46.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Part46.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Part6.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Part6.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Part8.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Part8.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\PCB-FIXED.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\PCB-FIXED.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\PCB.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\PCB.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\PcBoard_001.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\PcBoard_001.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Pluggable Terminal Block.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Pluggable Terminal Block.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Relay Board.asm:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Relay Board.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Relay Module 1.asm:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Relay Module 1.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Relay.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Relay.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\RES0805.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\RES0805.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\RES0806.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\RES0806.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\RES0807.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\RES0807.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\RES0808.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\RES0808.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\RES0809.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\RES0809.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\RES_3296W^HW-411.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\RES_3296W^HW-411.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\RES_SMD_0603^HW-411.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\RES_SMD_0603^HW-411.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Screw Terminal 22_001.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Screw Terminal 22_001.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Screw Terminal 31_001.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Screw Terminal 31_001.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Screw Terminal 31_002.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Screw Terminal 31_002.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\shield_MEGA.asm:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\shield_MEGA.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\SOT23-3.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\SOT23-3.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\StepDriver sheetmetal.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\StepDriver sheetmetal.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\Tac Switch_001.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\Tac Switch_001.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\TO-263-5^HW-411.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\TO-263-5^HW-411.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\User Library-led_0805.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\User Library-led_0805.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo\User Library-led_0806.par:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo\User Library-led_0806.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\poignee_tiroir.par:?H:\Desktop\Pince_finale\FINAL\bati\poignee_tiroir.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\poulie_12-18-13.par:?H:\Desktop\Pince_finale\FINAL\bati\poulie_12-18-13.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\poulie_GT2.par:?H:\Desktop\Pince_finale\FINAL\bati\poulie_GT2.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\profile_20x20.par:?H:\Desktop\Pince_finale\FINAL\bati\profile_20x20.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\profile_20x20_x.par:?H:\Desktop\Pince_finale\FINAL\bati\profile_20x20_x.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\profile_20x20x115.par:?H:\Desktop\Pince_finale\FINAL\bati\profile_20x20x115.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\profile_20x20x160.par:?H:\Desktop\Pince_finale\FINAL\bati\profile_20x20x160.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\profile_20x20x180.par:?H:\Desktop\Pince_finale\FINAL\bati\profile_20x20x180.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\profile_20x20x460.par:?H:\Desktop\Pince_finale\FINAL\bati\profile_20x20x460.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\profile_20x20x500.par:?H:\Desktop\Pince_finale\FINAL\bati\profile_20x20x500.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\profile_20x20x710.par:?H:\Desktop\Pince_finale\FINAL\bati\profile_20x20x710.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\profile_20x20x80.par:?H:\Desktop\Pince_finale\FINAL\bati\profile_20x20x80.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\protection_plexi_1.par:?H:\Desktop\Pince_finale\FINAL\bati\protection_plexi_1.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\protection_plexi_2.par:?H:\Desktop\Pince_finale\FINAL\bati\protection_plexi_2.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\protection_plexi_3.par:?H:\Desktop\Pince_finale\FINAL\bati\protection_plexi_3.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\rectangle_profile 540x500.asm:?H:\Desktop\Pince_finale\FINAL\bati\rectangle_profile 540x500.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\rondelle plate M3.par:?H:\Desktop\Pince_finale\FINAL\bati\rondelle plate M3.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\Screw_DIN_912_M3x10_v16.00.par:?H:\Desktop\Pince_finale\FINAL\bati\Screw_DIN_912_M3x10_v16.00.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\sous_bati.asm:?H:\Desktop\Pince_finale\FINAL\bati\sous_bati.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\support_moteur.psm:?H:\Desktop\Pince_finale\FINAL\bati\support_moteur.psm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\support_poulie_y.psm:?H:\Desktop\Pince_finale\FINAL\bati\support_poulie_y.psm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\Vis CHC M5-30 (1).par:?H:\Desktop\Pince_finale\FINAL\bati\Vis CHC M5-30 (1).par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\canne à pêche\canne_a_pêche_avec_accroche\canne a peche 1.par:?H:\Desktop\Pince_finale\FINAL\canne à pêche\canne_a_pêche_avec_accroche\canne a peche 1.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\canne à pêche\canne_a_pêche_avec_accroche\canne a peche 2.par:?H:\Desktop\Pince_finale\FINAL\canne à pêche\canne_a_pêche_avec_accroche\canne a peche 2.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\canne à pêche\canne_a_pêche_avec_accroche\canne a peche 3.par:?H:\Desktop\Pince_finale\FINAL\canne à pêche\canne_a_pêche_avec_accroche\canne a peche 3.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\canne à pêche\canne_a_pêche_avec_accroche\canne a peche 4.par:?H:\Desktop\Pince_finale\FINAL\canne à pêche\canne_a_pêche_avec_accroche\canne a peche 4.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\canne à pêche\canne_a_pêche_avec_accroche\serre_cylindre.par:?H:\Desktop\Pince_finale\FINAL\canne à pêche\canne_a_pêche_avec_accroche\serre_cylindre.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\canne à pêche\canne_a_pêche_avec_accroche\serre_cylindre_capteur.par:?H:\Desktop\Pince_finale\FINAL\canne à pêche\canne_a_pêche_avec_accroche\serre_cylindre_capteur.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Capteur\capteur x\capteur + support x.asm:?H:\Desktop\Pince_finale\FINAL\Capteur\capteur x\capteur + support x.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Capteur\capteur x\support capteur x .psm:?H:\Desktop\Pince_finale\FINAL\Capteur\capteur x\support capteur x .psm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Capteur\capteur y\Capteur + support y.asm:?H:\Desktop\Pince_finale\FINAL\Capteur\capteur y\Capteur + support y.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Capteur\capteur y\Capteur.asm:?H:\Desktop\Pince_finale\FINAL\Capteur\capteur y\Capteur.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Capteur\capteur y\support capteur y.psm:?H:\Desktop\Pince_finale\FINAL\Capteur\capteur y\support capteur y.psm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Capteur\capteur y\Support20x40.par:?H:\Desktop\Pince_finale\FINAL\Capteur\capteur y\Support20x40.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Capteur\Capteur.asm:?H:\Desktop\Pince_finale\FINAL\Capteur\Capteur.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Capteur\grove_micro_switch\10T85 (GSFY-10).par:?H:\Desktop\Pince_finale\FINAL\Capteur\grove_micro_switch\10T85 (GSFY-10).par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Capteur\grove_micro_switch\Connecteur 4 broches coudees.par:?H:\Desktop\Pince_finale\FINAL\Capteur\grove_micro_switch\Connecteur 4 broches coudees.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Capteur\grove_micro_switch\Grove_micro_switch_v1-0.asm:?H:\Desktop\Pince_finale\FINAL\Capteur\grove_micro_switch\Grove_micro_switch_v1-0.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Capteur\grove_micro_switch\PCB.par:?H:\Desktop\Pince_finale\FINAL\Capteur\grove_micro_switch\PCB.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Capteur\ITEM Ecrou M5.par:?H:\Desktop\Pince_finale\FINAL\Capteur\ITEM Ecrou M5.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Capteur\Support20x40.par:?H:\Desktop\Pince_finale\FINAL\Capteur\Support20x40.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\glissière\galets\accessoire\entretoise.par:?H:\Desktop\Pince_finale\FINAL\glissière\galets\accessoire\entretoise.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\glissière\galets\accessoire\excentrique.par:?H:\Desktop\Pince_finale\FINAL\glissière\galets\accessoire\excentrique.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\glissière\galets\Bearing_DIN_625_1_1989_625_v12.00.par:?H:\Desktop\Pince_finale\FINAL\glissière\galets\Bearing_DIN_625_1_1989_625_v12.00.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\glissière\galets\galet_new.par:?H:\Desktop\Pince_finale\FINAL\glissière\galets\galet_new.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\glissière\galets\glissière rail 20x40\entretoise_entraxe.par:?H:\Desktop\Pince_finale\FINAL\glissière\galets\glissière rail 20x40\entretoise_entraxe.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\glissière\galets\new_galet.asm:?H:\Desktop\Pince_finale\FINAL\glissière\galets\new_galet.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\glissière\galets\rondelle_interieure.par:?H:\Desktop\Pince_finale\FINAL\glissière\galets\rondelle_interieure.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\glissière\lien_courroi_x.par:?H:\Desktop\Pince_finale\FINAL\glissière\lien_courroi_x.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Pince\assemblage_pince_final.asm:?H:\Desktop\Pince_finale\FINAL\Pince\assemblage_pince_final.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Pince\axe_d8_27.par:?H:\Desktop\Pince_finale\FINAL\Pince\axe_d8_27.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Pince\axe_d8_30.par:?H:\Desktop\Pince_finale\FINAL\Pince\axe_d8_30.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Pince\axe_reliant_electro_à_pince.par:?H:\Desktop\Pince_finale\FINAL\Pince\axe_reliant_electro_à_pince.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Pince\bielle.psm:?H:\Desktop\Pince_finale\FINAL\Pince\bielle.psm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Pince\bout_electro_aimant.par:?H:\Desktop\Pince_finale\FINAL\Pince\bout_electro_aimant.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Pince\butée capteur z.psm:?H:\Desktop\Pince_finale\FINAL\Pince\butée capteur z.psm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Pince\entretoise_176.par:?H:\Desktop\Pince_finale\FINAL\Pince\entretoise_176.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Pince\entretoise_80.par:?H:\Desktop\Pince_finale\FINAL\Pince\entretoise_80.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Pince\entretoise_97.par:?H:\Desktop\Pince_finale\FINAL\Pince\entretoise_97.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Pince\griffe_pince.psm:?H:\Desktop\Pince_finale\FINAL\Pince\griffe_pince.psm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Pince\guidage_axe_8_12.par:?H:\Desktop\Pince_finale\FINAL\Pince\guidage_axe_8_12.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Pince\maintient_telesco.par:?H:\Desktop\Pince_finale\FINAL\Pince\maintient_telesco.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Pince\maintient_telesco_2.par:?H:\Desktop\Pince_finale\FINAL\Pince\maintient_telesco_2.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Pince\patron-electro-aimant.par:?H:\Desktop\Pince_finale\FINAL\Pince\patron-electro-aimant.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Pince\piece_basse.psm:?H:\Desktop\Pince_finale\FINAL\Pince\piece_basse.psm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Pince\piece_haute.psm:?H:\Desktop\Pince_finale\FINAL\Pince\piece_haute.psm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Pince\sous_assemblage_griffe_bielle.asm:?H:\Desktop\Pince_finale\FINAL\Pince\sous_assemblage_griffe_bielle.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\support pince\entonnoir.par:?H:\Desktop\Pince_finale\FINAL\support pince\entonnoir.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\support pince\plaque de support treuil.psm:?H:\Desktop\Pince_finale\FINAL\support pince\plaque de support treuil.psm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\support pince\support_pince_sans_rail.asm:?H:\Desktop\Pince_finale\FINAL\support pince\support_pince_sans_rail.asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\support pince\tole_profile_courroie.psm:?H:\Desktop\Pince_finale\FINAL\support pince\tole_profile_courroie.psm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\support pince\tole_profile_treuil.psm:?H:\Desktop\Pince_finale\FINAL\support pince\tole_profile_treuil.psm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\support pince\treuil\assemblage moteur z (piece de couleur a mettre en tolerie).asm:?H:\Desktop\Pince_finale\FINAL\support pince\treuil\assemblage moteur z (piece de couleur a mettre en tolerie).asm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\support pince\treuil\proto_poulie_avec_rainure_trou_vis_3.2 .par:?H:\Desktop\Pince_finale\FINAL\support pince\treuil\proto_poulie_avec_rainure_trou_vis_3.2 .par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\support pince\treuil\support moteur z proto-tolerie .par.psm:?H:\Desktop\Pince_finale\FINAL\support pince\treuil\support moteur z proto-tolerie .par.psm
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\support pince\treuil\Vis CHC M3-10.par:?H:\Desktop\Pince_finale\FINAL\support pince\treuil\Vis CHC M3-10.par
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\support pince\treuil\Vis HC_M3x10.par:?H:\Desktop\Pince_finale\FINAL\support pince\treuil\Vis HC_M3x10.par
+
+//// UniqueFolders
+\\PS-HOME.INSA-LYON.FR\USERS\HOME\BPOIRIER\Desktop\OneDrive_2026-10-21\Projet _C:?H:\Desktop\Pince_finale
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Axe_x\Axe_x:?H:\Desktop\Pince_finale\FINAL\Axe_x\Axe_x
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Axe_x\Axe_x\nema17:?H:\Desktop\Pince_finale\FINAL\Axe_x\Axe_x\nema17
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Axe_x\rail:?H:\Desktop\Pince_finale\FINAL\Axe_x\rail
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati:?H:\Desktop\Pince_finale\FINAL\bati
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur finale:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur finale
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\interface utilisateur\modeleSE_boiteOK:?H:\Desktop\Pince_finale\FINAL\bati\interface utilisateur\modeleSE_boiteOK
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\nema17:?H:\Desktop\Pince_finale\FINAL\bati\nema17
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\bati\platine_compo:?H:\Desktop\Pince_finale\FINAL\bati\platine_compo
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\canne à pêche\canne_a_pêche_avec_accroche:?H:\Desktop\Pince_finale\FINAL\canne à pêche\canne_a_pêche_avec_accroche
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Capteur:?H:\Desktop\Pince_finale\FINAL\Capteur
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Capteur\capteur x:?H:\Desktop\Pince_finale\FINAL\Capteur\capteur x
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Capteur\capteur y:?H:\Desktop\Pince_finale\FINAL\Capteur\capteur y
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Capteur\grove_micro_switch:?H:\Desktop\Pince_finale\FINAL\Capteur\grove_micro_switch
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\glissière:?H:\Desktop\Pince_finale\FINAL\glissière
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\glissière\galets:?H:\Desktop\Pince_finale\FINAL\glissière\galets
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\glissière\galets\accessoire:?H:\Desktop\Pince_finale\FINAL\glissière\galets\accessoire
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\glissière\galets\glissière rail 20x40:?H:\Desktop\Pince_finale\FINAL\glissière\galets\glissière rail 20x40
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\Pince:?H:\Desktop\Pince_finale\FINAL\Pince
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\support pince:?H:\Desktop\Pince_finale\FINAL\support pince
+\\ps-home.insa-lyon.fr\users\home\bpoirier\Desktop\OneDrive_2026-10-21\Projet _C\FINAL\support pince\treuil:?H:\Desktop\Pince_finale\FINAL\support pince\treuil

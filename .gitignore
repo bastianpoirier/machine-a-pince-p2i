@@ -1,0 +1,7 @@
+# Fichiers temporaires Solid Edge
+*.bak
+*.tmp
+~*
+*.selock
+Thumbs.db
+desktop.ini
