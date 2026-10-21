@@ -23,7 +23,11 @@ Ce projet couvre **toute la chaîne de développement d'un produit**, de l'idée
 
 ## La pince construite
 
-> 🎥 *Vidéo de la pince en fonctionnement — à venir.*
+La machine a été fabriquée et assemblée à l'atelier, puis testée en conditions de jeu.
+
+[![Vidéo de la machine à pince en fonctionnement](images/apercu_video.jpg)](images/video_pince.mp4)
+
+🎥 *Clique sur l'image pour voir la vidéo de la machine en fonctionnement (48 s).*
 
 ## Le projet
 
