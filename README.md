@@ -4,6 +4,20 @@ Conception complète, sous **Solid Edge**, d'une machine à pince de fête forai
 
 ![Vue d'ensemble de la machine](images/vue_ensemble.png)
 
+## Une conception de A à Z
+
+Ce projet couvre **toute la chaîne de conception** d'une machine réelle, de l'idée jusqu'à la machine construite et fonctionnelle : cahier des charges, conception mécanique en CAO, programmation, fabrication des pièces, assemblage et tests.
+
+### Mon rôle
+
+- **Code Arduino** : programmation de la machine (pilotage des 3 moteurs pas-à-pas X / Y / Z, prise d'origine via les capteurs de fin de course, lecture du joystick et du bouton, commande de l'électro-aimant de la pince, affichage sur l'écran LCD).
+- **Conception 3D de la pince** : modélisation complète sous Solid Edge du mécanisme de préhension (griffes, bielles, électro-aimant, pièces de tôlerie, axes).
+- **Programmation de la fabrication (FAO)** : conversion des modèles Solid Edge en programmes d'usinage avec **Solid Edge CAM Pro**, pour le **fraisage** et le **tournage** des axes de la pince sur machines-outils.
+
+## La pince construite
+
+> 🎥 *Vidéo de la pince en fonctionnement — à venir.*
+
 ## Le projet
 
 L'objectif était de concevoir une machine fonctionnelle et fabricable dans laquelle le joueur pilote une pince au joystick pour attraper un lot dans le plateau de jeu, puis le déposer dans la trappe de sortie.
@@ -36,18 +50,31 @@ La pince est le cœur du projet :
 - Axes Ø8 mm et entretoises pour les liaisons pivot.
 - Une **butée** déclenche le capteur Z pour détecter la position haute.
 
-## Ce que j'ai réalisé
+## Fabrication des axes de la pince (FAO)
 
-- Modélisation 3D des pièces et des sous-ensembles sous Solid Edge (pièces volumiques `.par`, tôlerie `.psm`, assemblages `.asm`).
-- Conception du mécanisme de la pince (cinématique bielle / griffe, choix de l'électro-aimant).
-- Conception des axes motorisés : supports moteurs, poulies, liens de courroie, galets de guidage.
-- Intégration des capteurs de fin de course et de leurs supports.
-- Intégration de l'électronique (carte de commande, drivers, alimentation) et de l'interface utilisateur dans le bâti.
-- Mise en plan / préparation des pièces pour la fabrication (tôlerie, découpe MDF et plexiglas).
+Les axes de la pince (axes Ø8 mm, axe reliant l'électro-aimant à la pince, guidages) ont été usinés à partir des modèles 3D :
+
+1. Modélisation de la pièce sous Solid Edge.
+2. Création des opérations d'usinage dans **Solid Edge CAM Pro** (choix des outils, trajectoires, conditions de coupe).
+3. Simulation puis génération du programme pour la machine-outil (**tour** et **fraiseuse**).
+4. Usinage des pièces et montage sur la pince.
+
+## Code Arduino
+
+> 💻 *Le code source Arduino sera ajouté prochainement dans le dossier `arduino/`.*
+
+Le programme tourne sur l'**Arduino Mega 2560** et gère :
+
+- le déplacement de la pince en X / Y au joystick et la descente / remontée en Z ;
+- la prise d'origine des axes grâce aux micro-switchs de fin de course ;
+- la fermeture / l'ouverture de la pince par l'électro-aimant (via le module relais) ;
+- le déroulement d'une partie et l'affichage sur l'écran LCD.
 
 ## Technologies et composants
 
 - **CAO** : Solid Edge
+- **FAO** : Solid Edge CAM Pro (fraisage et tournage)
+- **Programmation** : Arduino (C/C++)
 - **Structure** : profilés aluminium 20×20 / 20×40, MDF, PMMA (plexiglas), tôle pliée
 - **Motorisation** : 3 moteurs pas-à-pas NEMA 17, courroies et poulies GT2
 - **Commande** : Arduino Mega 2560, shield Grove, drivers micro-pas, relais
