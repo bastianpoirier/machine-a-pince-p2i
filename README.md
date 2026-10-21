@@ -13,7 +13,7 @@ Ce projet couvre **toute la chaîne de développement d'un produit**, de l'idée
 1. **Conception mécanique** en CAO sous Solid Edge (bâti, axes, pince, capteurs, intégration de l'électronique).
 2. **Programmation** de la machine en Arduino.
 3. **Fabrication** des pièces sur les machines de l'atelier (FAO, usinage, découpe laser, pliage, impression 3D) puis **assemblage** et tests.
-4. **Analyse industrielle complète** : étude de la production en série de la machine dans une usine, jusqu'au calcul de son prix de vente (voir [plus bas](#analyse-industrielle)).
+4. **Analyse industrielle complète** (étude fictive) : simulation de la production en série de la machine dans une usine, jusqu'au calcul de son prix de vente (voir [plus bas](#analyse-industrielle)).
 
 ### Mon rôle
 
@@ -79,7 +79,11 @@ Le programme tourne sur l'**Arduino Mega 2560** et gère :
 
 ## Analyse industrielle
 
-En parallèle de la conception, l'équipe a mené une **étude complète d'industrialisation** : comment produire cette machine en série dans une usine ayant la surface et le parc machines de l'atelier FIMI de l'INSA Lyon.
+> ⚠️ **Cette partie est entièrement fictive.** Il s'agit d'un exercice pédagogique : l'entreprise, l'usine, les effectifs, les coûts et le prix de vente sont simulés. Aucune entreprise n'a été créée et la machine n'est pas commercialisée.
+
+En parallèle de la conception, l'équipe a mené une **étude complète d'industrialisation** : comment produire cette machine en série dans une usine imaginaire ayant la surface et le parc machines de l'atelier FIMI de l'INSA Lyon.
+
+📄 **Rapport complet :** [rapport_industrialisation.pdf](docs/rapport_industrialisation.pdf)
 
 **Hypothèses de départ**
 
