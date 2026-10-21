@@ -19,9 +19,9 @@ Ce projet couvre **toute la chaîne de développement d'un produit**, de l'idée
 
 La machine a été fabriquée et assemblée à l'atelier, puis testée en conditions de jeu.
 
-![La machine à pince en fonctionnement](images/video_pince.gif)
+[![Voir la vidéo de la machine à pince en fonctionnement](images/apercu_video.jpg)](https://bastianpoirier.github.io/machine-a-pince-p2i/images/video_pince.mp4)
 
-🎥 *Extrait en GIF. [Vidéo complète avec le son (48 s, MP4)](https://github.com/bastianpoirier/machine-a-pince-p2i/raw/main/images/video_pince.mp4)*
+🎥 *Clique sur l'image pour lancer la vidéo (48 s).*
 
 ## Ma contribution
 
