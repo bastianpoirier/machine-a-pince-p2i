@@ -21,7 +21,7 @@ La machine a été fabriquée et assemblée à l'atelier, puis testée en condit
 
 [![Voir la vidéo de la machine à pince en fonctionnement](images/apercu_video.jpg)](https://bastianpoirier.github.io/machine-a-pince-p2i/images/video_pince.mp4)
 
-🎥 *Clique sur l'image pour lancer la vidéo (48 s).*
+*Clique sur l'image pour lancer la vidéo (48 s).*
 
 ## Ma contribution
 
@@ -37,7 +37,7 @@ J'ai écrit le programme qui pilote toute la machine sur l'**Arduino Mega 2560**
 - **cycle de jeu** : descente de la pince, fermeture par l'**électro-aimant** (via le module relais), remontée, retour au-dessus de la trappe et ouverture ;
 - **affichage** des informations de jeu sur l'**écran LCD I²C**.
 
-> 💻 *Le code source sera ajouté dans le dossier `arduino/`.*
+> *Le code source sera ajouté dans le dossier `arduino/`.*
 
 ### 2. Conception 3D de la pince sous Solid Edge
 
@@ -84,11 +84,11 @@ L'assemblage général est `Pince_finale/assemblage final.asm`.
 
 ## Analyse industrielle
 
-> ⚠️ **Cette partie est entièrement fictive.** Il s'agit d'un exercice pédagogique : l'entreprise, l'usine, les effectifs, les coûts et le prix de vente sont simulés. Aucune entreprise n'a été créée et la machine n'est pas commercialisée.
+> **Cette partie est entièrement fictive.** Il s'agit d'un exercice pédagogique : l'entreprise, l'usine, les effectifs, les coûts et le prix de vente sont simulés. Aucune entreprise n'a été créée et la machine n'est pas commercialisée.
 
 En parallèle de la conception, l'équipe a mené une **étude complète d'industrialisation** : comment produire cette machine en série dans une usine imaginaire ayant la surface et le parc machines de l'atelier FIMI de l'INSA Lyon.
 
-📄 **Rapport complet :** [rapport_industrialisation.pdf](docs/rapport_industrialisation.pdf)
+**Rapport complet :** [rapport_industrialisation.pdf](docs/rapport_industrialisation.pdf)
 
 **Hypothèses de départ**
 
