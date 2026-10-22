@@ -37,8 +37,6 @@ J'ai écrit le programme qui pilote toute la machine sur l'**Arduino Mega 2560**
 - **cycle de jeu** : descente de la pince, fermeture par l'**électro-aimant** (via le module relais), remontée, retour au-dessus de la trappe et ouverture ;
 - **affichage** des informations de jeu sur l'**écran LCD I²C**.
 
-> *Le code source sera ajouté dans le dossier `arduino/`.*
-
 ### 2. Conception 3D de la pince sous Solid Edge
 
 J'ai conçu entièrement le **mécanisme de préhension** (dossier [`Pince_finale/FINAL/Pince`](Pince_finale/FINAL/Pince)) :
