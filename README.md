@@ -4,8 +4,6 @@ Projet de groupe réalisé à l'**INSA Lyon** (P2I 3 – Projet C) : conception,
 
 **Équipe :** Perraud · Poirier · Vignon · Nicolas
 
-🌐 **Site du projet :** https://bastianpoirier.github.io/machine-a-pince-p2i/
-
 ![Vue d'ensemble de la machine](images/vue_ensemble.png)
 
 ## Une conception de A à Z
@@ -21,7 +19,7 @@ Ce projet couvre **toute la chaîne de développement d'un produit**, de l'idée
 
 La machine a été fabriquée et assemblée à l'atelier, puis testée en conditions de jeu.
 
-[![Voir la vidéo de la machine à pince en fonctionnement](images/apercu_video.jpg)](https://bastianpoirier.github.io/machine-a-pince-p2i/#video)
+[![Voir la vidéo de la machine à pince en fonctionnement](images/apercu_video.jpg)](https://bastianpoirier.github.io/machine-a-pince-p2i/images/video_pince.mp4)
 
 🎥 *Clique sur l'image pour lancer la vidéo (48 s).*
 
